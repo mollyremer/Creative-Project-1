@@ -1,9 +1,9 @@
 .wrapper {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  margin-left: 250px;
-  margin-right: 250px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 .image {
@@ -19,123 +19,148 @@ p {
 
 
 .one {
-  grid-column: 1;
-  grid-row: 1;
-  background-image: url("sandalImages/adidasSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  
+    grid-column: 1;
+    grid-row: 1;
+    background-image: url("sandalImages/adidasSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
+
 .two {
-  grid-column: 2;
-  grid-row: 1;
-  background-image: url("sandalImages/dadSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 2;
+    grid-row: 1;
+    background-image: url("sandalImages/dadSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .three {
- grid-column: 3;
-  grid-row: 1;
-  background-image: url("sandalImages/hellSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 3;
+    grid-row: 1;
+    background-image: url("sandalImages/hellSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .four {
- grid-column: 1;
-  grid-row: 2;
-  background-image: url("sandalImages/nikeSandal.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 1;
+    grid-row: 2;
+    background-image: url("sandalImages/nikeSandal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .five {
-  grid-column: 2;
-  grid-row: 2;
-  background-image: url("sandalImages/redSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 2;
+    grid-row: 2;
+    background-image: url("sandalImages/redSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .six {
-  grid-column: 3;
-  grid-row: 2;
-  background-image: url("sandalImages/springSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 3;
+    grid-row: 2;
+    background-image: url("sandalImages/springSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .seven {
-  grid-column: 1;
-  grid-row: 3;
-  background-image: url("sandalImages/StrappySandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 1;
+    grid-row: 3;
+    background-image: url("sandalImages/StrappySandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .eight {
-  grid-column: 2;
-  grid-row: 3;
-  background-image: url("sandalImages/thongSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 2;
+    grid-row: 3;
+    background-image: url("sandalImages/thongSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .nine {
-  grid-column: 3;
-  grid-row: 3;
-  background-image: url("sandalImages/underarmorSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 3;
+    grid-row: 3;
+    background-image: url("sandalImages/underarmorSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .ten {
-  grid-column: 1;
-  grid-row: 4;
-  background-image: url("sandalImages/whiteSandal.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 1;
+    grid-row: 4;
+    background-image: url("sandalImages/whiteSandal.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .eleven {
-  grid-column: 2;
-  grid-row: 4;
-  background-image: url("sandalImages/orangeSandal.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 2;
+    grid-row: 4;
+    background-image: url("sandalImages/orangeSandal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .twelve {
-  grid-column: 3;
-  grid-row: 4;
-  background-image: url("sandalImages/skechersSandal.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 3;
+    grid-row: 4;
+    background-image: url("sandalImages/skechersSandal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .thirteen {
-  grid-column: 1;
-  grid-row: 5;
-  background-image: url("sandalImages/ankleSandal.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 1;
+    grid-row: 5;
+    background-image: url("sandalImages/ankleSandal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .fourteen {
-  grid-column: 2;
-  grid-row: 5;
-  background-image: url("sandalImages/limeSandal.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 2;
+    grid-row: 5;
+    background-image: url("sandalImages/limeSandal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .fifteen {
-  grid-column: 3;
-  grid-row: 5;
-  background-image: url("sandalImages/crocs.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    grid-column: 3;
+    grid-row: 5;
+    background-image: url("sandalImages/crocs.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    .wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 }
