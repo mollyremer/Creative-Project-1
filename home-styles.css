@@ -1,0 +1,14 @@
+.title {
+    
+    background-image: url(shoe-home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    width: 80%;
+    height: 550px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
